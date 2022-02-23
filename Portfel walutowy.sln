@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Portfel walutowy", "Portfel walutowy\Portfel walutowy.vcxproj", "{96351276-993D-47E9-A530-2462400160F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96351276-993D-47E9-A530-2462400160F1}.Debug|x64.ActiveCfg = Debug|x64
+		{96351276-993D-47E9-A530-2462400160F1}.Debug|x64.Build.0 = Debug|x64
+		{96351276-993D-47E9-A530-2462400160F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{96351276-993D-47E9-A530-2462400160F1}.Debug|x86.Build.0 = Debug|Win32
+		{96351276-993D-47E9-A530-2462400160F1}.Release|x64.ActiveCfg = Release|x64
+		{96351276-993D-47E9-A530-2462400160F1}.Release|x64.Build.0 = Release|x64
+		{96351276-993D-47E9-A530-2462400160F1}.Release|x86.ActiveCfg = Release|Win32
+		{96351276-993D-47E9-A530-2462400160F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440E8E10-CE43-4C34-9828-56B70ED1CD8B}
+	EndGlobalSection
+EndGlobal
